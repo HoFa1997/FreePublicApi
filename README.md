@@ -6,6 +6,9 @@ Here are some free public APIs that developers can use to build interesting proj
 
 ## REST API
 
+ - [Fake Store API](https://fakestoreapi.com/) / [by Keyvan](https://github.com/keikaavousi)
+   - Fake store rest API for your e-commerce or shopping website prototype
+
  - [Rick and Morty API](https://rickandmortyapi.com/)
    - Retrieves information about the characters, episodes, and locations from the Rick and Morty TV series.
 
